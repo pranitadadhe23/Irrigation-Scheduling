@@ -39,27 +39,23 @@ If you are using your own dataset, please make sure the columns match the ones u
    cd smart-irrigation-system
 
 2. Install required libraries:
-```bash
+   ```bash
    pip install pandas matplotlib seaborn scikit-learn
-```
+   ```
 
 3. Run the Jupyter Notebook:
-```bash
+   ```bash
    jupyter notebook irrigation_smart_agriculture.ipynb
-```
+   ```
 
 ## 📈 Results
 High model accuracy with clear decision boundaries.
-
 Helps farmers make informed irrigation decisions.
-
 Can be extended with IoT sensors for real-time predictions.
 
 ## 🚀 Future Improvements
 Integrate with real-time sensor data via IoT.
-
 Deploy as a web or mobile app for accessibility.
-
 Add rainfall prediction and weather APIs for more accuracy.
 
 ## 🤝 Contributing
